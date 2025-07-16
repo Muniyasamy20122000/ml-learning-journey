@@ -1,4 +1,4 @@
-#Linear Regression - Key Points
+**#Linear Regression - Key Points**
 
 **Definition:**
 Linear Regression is a Supervised ML algorithm that models the relationship between the dependent vairable(Y) and one or more independent vairables(X) by fitting a linear equation.
