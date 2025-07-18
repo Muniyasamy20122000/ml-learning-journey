@@ -6,11 +6,10 @@ Logistic Regression is used for classification tasks.
 Users a sigmoid function to convert linear combination of inputs into probabilities between 0 and 1.
 
 **Mathematical Formula:**
- p= 
+ p= 1/
 1+e 
 −(mx+c)
  
-1
 ​
 - mx + c : linear combination of inputs
 - e: Euler's number (~2.718)
