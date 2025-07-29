@@ -1,6 +1,6 @@
-#Decision Tree Classifier
+# Decision Tree Classifier
 
-**What is a Decision Tress?**
+**What is a Decision Trees?**
   A Decision Tree is a supervised machine learning algorithm used for classification and regression tasks. It splits the data into subsets based on feature values to create a tree-like model of decisions.
 
   **How it works:**
